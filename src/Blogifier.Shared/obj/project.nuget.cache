@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "snazpHzaCR3xCLDhF1Kk+J/pfWbP1s3jEvlg9PyhvYKyN/+EqHyjAR44plOKFMVmG/jR8Z5p80c4PNhsBEf/Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Shared\\Blogifier.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Janwo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Janwo\\.nuget\\packages\\microsoft.extensions.localization\\6.0.1\\microsoft.extensions.localization.6.0.1.nupkg.sha512",
+    "C:\\Users\\Janwo\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\6.0.1\\microsoft.extensions.localization.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Janwo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Janwo\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Janwo\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Janwo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Janwo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Janwo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Janwo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

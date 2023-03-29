@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Blogifier.Admin.props" />
+</Project>

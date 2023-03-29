@@ -1,0 +1,209 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Blogifier
+build_property.RootNamespace = Blogifier
+build_property.ProjectDir = C:\Users\Janwo\Desktop\Blogifier\src\Blogifier\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Janwo\Desktop\Blogifier\src\Blogifier
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Shared/FooterScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3RlclNjcmlwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Shared/HeaderScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhlYWRlclNjcmlwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXDQwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/components/footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXGNvbXBvbmVudHNcZm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/components/header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXGNvbXBvbmVudHNcaGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/components/metadata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXGNvbXBvbmVudHNcbWV0YWRhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/components/nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXGNvbXBvbmVudHNcbmF2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/components/newsletter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXGNvbXBvbmVudHNcbmV3c2xldHRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/components/pagination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXGNvbXBvbmVudHNccGFnaW5hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/layouts/_main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXGxheW91dHNcX21haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/Page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/Post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXFBvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/post/author.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXHBvc3RcYXV0aG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/post/comments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXHBvc3RcY29tbWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/post/featured.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXHBvc3RcZmVhdHVyZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/post/nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXHBvc3RcbmF2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/post/related.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXHBvc3RccmVsYXRlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/post/share.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXHBvc3Rcc2hhcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/post/view-grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXHBvc3Rcdmlldy1ncmlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/post/view-list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXHBvc3Rcdmlldy1saXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/standard/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHN0YW5kYXJkXFNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RcNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RcQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/components/footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RcY29tcG9uZW50c1xmb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/components/header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RcY29tcG9uZW50c1xoZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/components/metadata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RcY29tcG9uZW50c1xtZXRhZGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/components/nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RcY29tcG9uZW50c1xuYXYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/components/newsletter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RcY29tcG9uZW50c1xuZXdzbGV0dGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/components/pagination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RcY29tcG9uZW50c1xwYWdpbmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/layouts/_main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RcbGF5b3V0c1xfbWFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/Page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RcUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/Post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RcUG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/post/author.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RccG9zdFxhdXRob3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/post/comments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RccG9zdFxjb21tZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/post/featured.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RccG9zdFxmZWF0dXJlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/post/nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RccG9zdFxuYXYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/post/related.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RccG9zdFxyZWxhdGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/post/share.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RccG9zdFxzaGFyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/post/view-grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RccG9zdFx2aWV3LWdyaWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/post/view-list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RccG9zdFx2aWV3LWxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/Themes/test/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVzXHRlc3RcU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

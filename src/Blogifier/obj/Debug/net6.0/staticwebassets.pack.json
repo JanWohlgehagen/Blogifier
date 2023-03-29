@@ -1,0 +1,309 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\data\\1\\2020\\12\\81506457-1611e580-92bc-11ea-927e-b826c56ba21b.png",
+      "PackagePath": "staticwebassets\\data\\1\\2020\\12\\81506457-1611e580-92bc-11ea-927e-b826c56ba21b.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\data\\1\\2020\\12\\9940.gif",
+      "PackagePath": "staticwebassets\\data\\1\\2020\\12\\9940.gif"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\img\\cover.jpg",
+      "PackagePath": "staticwebassets\\img\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\README.md",
+      "PackagePath": "staticwebassets\\themes\\standard\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\css\\styles.css",
+      "PackagePath": "staticwebassets\\themes\\standard\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\css\\styles.css.map",
+      "PackagePath": "staticwebassets\\themes\\standard\\css\\styles.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\img\\logo-black.png",
+      "PackagePath": "staticwebassets\\themes\\standard\\img\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\themes\\standard\\img\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\js\\highlight.js",
+      "PackagePath": "staticwebassets\\themes\\standard\\js\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\js\\newsletter.js",
+      "PackagePath": "staticwebassets\\themes\\standard\\js\\newsletter.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\themes\\standard\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\package-lock.json",
+      "PackagePath": "staticwebassets\\themes\\standard\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\package.json",
+      "PackagePath": "staticwebassets\\themes\\standard\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\screenshot.png",
+      "PackagePath": "staticwebassets\\themes\\standard\\screenshot.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\components\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\components\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\components\\_highlight.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\components\\_highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\components\\_newsletter.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\components\\_newsletter.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\components\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\components\\_search.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\components\\_search.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\helpers\\_base.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\helpers\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\helpers\\_mixins.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\helpers\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\helpers\\_reset.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\helpers\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\helpers\\_variables.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\helpers\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\layout\\_nav.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\layout\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\layout\\_widgets.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\layout\\_widgets.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\page\\_home.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\page\\_home.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\post\\_featured.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\post\\_featured.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\post\\_nav.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\post\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\post\\_post.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\post\\_post.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\post\\_related.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\post\\_related.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\post\\_share.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\post\\_share.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\post\\_view-grid.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\post\\_view-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\post\\_view-list.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\post\\_view-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\themes\\standard\\scss\\styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\standard\\settings.json",
+      "PackagePath": "staticwebassets\\themes\\standard\\settings.json"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\README.md",
+      "PackagePath": "staticwebassets\\themes\\test\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\css\\styles.css",
+      "PackagePath": "staticwebassets\\themes\\test\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\css\\styles.css.map",
+      "PackagePath": "staticwebassets\\themes\\test\\css\\styles.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\img\\logo-black.png",
+      "PackagePath": "staticwebassets\\themes\\test\\img\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\themes\\test\\img\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\js\\highlight.js",
+      "PackagePath": "staticwebassets\\themes\\test\\js\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\js\\newsletter.js",
+      "PackagePath": "staticwebassets\\themes\\test\\js\\newsletter.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\themes\\test\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\package-lock.json",
+      "PackagePath": "staticwebassets\\themes\\test\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\package.json",
+      "PackagePath": "staticwebassets\\themes\\test\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\screenshot.png",
+      "PackagePath": "staticwebassets\\themes\\test\\screenshot.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\components\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\components\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\components\\_highlight.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\components\\_highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\components\\_newsletter.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\components\\_newsletter.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\components\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\components\\_search.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\components\\_search.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\helpers\\_base.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\helpers\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\helpers\\_mixins.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\helpers\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\helpers\\_reset.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\helpers\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\helpers\\_variables.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\helpers\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\layout\\_nav.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\layout\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\layout\\_widgets.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\layout\\_widgets.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\page\\_home.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\page\\_home.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\post\\_featured.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\post\\_featured.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\post\\_nav.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\post\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\post\\_post.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\post\\_post.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\post\\_related.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\post\\_related.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\post\\_share.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\post\\_share.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\post\\_view-grid.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\post\\_view-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\post\\_view-list.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\post\\_view-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\themes\\test\\scss\\styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier\\wwwroot\\themes\\test\\settings.json",
+      "PackagePath": "staticwebassets\\themes\\test\\settings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Blogifier.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Blogifier.props",
+      "PackagePath": "build\\Blogifier.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Blogifier.props",
+      "PackagePath": "buildMultiTargeting\\Blogifier.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Blogifier.props",
+      "PackagePath": "buildTransitive\\Blogifier.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

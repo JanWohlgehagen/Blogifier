@@ -1,0 +1,253 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Janwo\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\contentFiles\\any\\netstandard2.1\\wwwroot\\ChartJsBlazorInterop.js",
+      "PackagePath": "staticwebassets\\ChartJsBlazorInterop.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\obj\\Debug\\net6.0\\build-gz\\Z0o5ELad.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\css\\blogifier.css",
+      "PackagePath": "staticwebassets\\admin\\css\\blogifier.css"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\css\\blogifier.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\blogifier.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\css\\blogifier.rtl.css",
+      "PackagePath": "staticwebassets\\admin\\css\\blogifier.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\favicons\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\admin\\favicons\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\favicons\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\admin\\favicons\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\favicons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\admin\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\favicons\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\admin\\favicons\\browserconfig.xml"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\admin\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\admin\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\favicons\\mstile-144x144.png",
+      "PackagePath": "staticwebassets\\admin\\favicons\\mstile-144x144.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\favicons\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\admin\\favicons\\mstile-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\favicons\\mstile-310x150.png",
+      "PackagePath": "staticwebassets\\admin\\favicons\\mstile-310x150.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\favicons\\mstile-310x310.png",
+      "PackagePath": "staticwebassets\\admin\\favicons\\mstile-310x310.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\favicons\\mstile-70x70.png",
+      "PackagePath": "staticwebassets\\admin\\favicons\\mstile-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\favicons\\safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets\\admin\\favicons\\safari-pinned-tab.svg"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\favicons\\site.webmanifest",
+      "PackagePath": "staticwebassets\\admin\\favicons\\site.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\js\\components.js",
+      "PackagePath": "staticwebassets\\admin\\js\\components.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\js\\dataService.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataService.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\js\\editor.js",
+      "PackagePath": "staticwebassets\\admin\\js\\editor.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\js\\fileManager.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fileManager.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\js\\frameworks\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\frameworks\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\js\\frameworks\\autosize.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\frameworks\\autosize.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\js\\frameworks\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\frameworks\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\js\\frameworks\\easymde.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\frameworks\\easymde.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\js\\frameworks\\highlight.js",
+      "PackagePath": "staticwebassets\\admin\\js\\frameworks\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\package-lock.json",
+      "PackagePath": "staticwebassets\\admin\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\package.json",
+      "PackagePath": "staticwebassets\\admin\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\blogifier.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\blogifier.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\helpers\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\helpers\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\helpers\\_colors.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\helpers\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\helpers\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\helpers\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\helpers\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\helpers\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\helpers\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\helpers\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\include\\_blazor.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\include\\_blazor.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\include\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\include\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\include\\_editor.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\include\\_editor.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\include\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\include\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\include\\_highlight.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\include\\_highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\include\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\include\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\include\\_list.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\include\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\include\\_section.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\include\\_section.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\include\\_toaster.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\include\\_toaster.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\include\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\include\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\layout\\_main.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\layout\\_main.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\layout\\_nav.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\layout\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\layout\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\layout\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\pages\\account\\_account.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\account\\_account.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\pages\\dashboard\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\dashboard\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\pages\\editor\\_editor.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\editor\\_editor.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\pages\\settings\\_about.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\settings\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\pages\\settings\\_customize.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\settings\\_customize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\pages\\settings\\_settings.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\settings\\_settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\admin\\scss\\pages\\settings\\_themes.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\settings\\_themes.scss"
+    },
+    {
+      "Id": "C:\\Users\\Janwo\\Desktop\\Blogifier\\src\\Blogifier.Admin\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Blogifier.Admin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Blogifier.Admin.props",
+      "PackagePath": "build\\Blogifier.Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Blogifier.Admin.props",
+      "PackagePath": "buildMultiTargeting\\Blogifier.Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Blogifier.Admin.props",
+      "PackagePath": "buildTransitive\\Blogifier.Admin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

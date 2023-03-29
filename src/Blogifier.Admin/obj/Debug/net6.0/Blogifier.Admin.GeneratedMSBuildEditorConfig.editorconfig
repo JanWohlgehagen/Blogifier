@@ -1,0 +1,201 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Blogifier.Admin
+build_property.RootNamespace = Blogifier.Admin
+build_property.ProjectDir = C:\Users\Janwo\Desktop\Blogifier\src\Blogifier.Admin\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Janwo\Desktop\Blogifier\src\Blogifier.Admin
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Components/Blog/CategoriesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCbG9nXENhdGVnb3JpZXNDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Components/Customize/MenusComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDdXN0b21pemVcTWVudXNDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Components/Customize/SettingsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDdXN0b21pemVcU2V0dGluZ3NDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Components/Customize/WidgetsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDdXN0b21pemVcV2lkZ2V0c0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Components/Dashboard/AnalyticsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEYXNoYm9hcmRcQW5hbHl0aWNzQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Components/Dashboard/TotalsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEYXNoYm9hcmRcVG90YWxzQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Components/EditorComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFZGl0b3JDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Components/ToasterComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUb2FzdGVyQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Account/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Account/LogoutView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dvdXRWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Account/PasswordView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxQYXNzd29yZFZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Account/ProfileView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxQcm9maWxlVmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Account/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSZWdpc3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Blog/CategoriesView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xDYXRlZ29yaWVzVmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Blog/Editor.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xFZGl0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Blog/ImportView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xJbXBvcnRWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Blog/PostsView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xQb3N0c1ZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Blog/SettingsView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xTZXR0aW5nc1ZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Dashboard/DashboardView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXERhc2hib2FyZFZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Drive/DriveView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRHJpdmVcRHJpdmVWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Newsletter/NewsletterView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c2xldHRlclxOZXdzbGV0dGVyVmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Newsletter/SettingsView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c2xldHRlclxTZXR0aW5nc1ZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Newsletter/SubscribersView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c2xldHRlclxTdWJzY3JpYmVyc1ZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Pages/Editor.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcRWRpdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Pages/PagesView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNcUGFnZXNWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Settings/AboutView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcQWJvdXRWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Settings/AdvancedView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcQWR2YW5jZWRWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Settings/BasicView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcQmFzaWNWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Settings/CommentsView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcQ29tbWVudHNWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Settings/CustomizeView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcQ3VzdG9taXplVmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Settings/MenusView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcTWVudXNWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Settings/ScriptsView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcU2NyaXB0c1ZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Settings/ThemesView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcVGhlbWVzVmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Settings/UsersView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcVXNlcnNWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Pages/Settings/WidgetsView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcV2lkZ2V0c1ZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Shared/AccountLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFjY291bnRMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Shared/BlogLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJsb2dMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Shared/BlogPageTitle.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJsb2dQYWdlVGl0bGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Shared/NewsletterLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5ld3NsZXR0ZXJMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Shared/ProfileLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFByb2ZpbGVMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/Shared/SettingsLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNldHRpbmdzTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Janwo/Desktop/Blogifier/src/Blogifier.Admin/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
