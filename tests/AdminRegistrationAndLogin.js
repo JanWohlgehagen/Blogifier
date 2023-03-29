@@ -66,6 +66,6 @@ test('LoginSuccess', async test => {
         .typeText('#loginEmail', 'Enemail@gmail.com')
         .typeText('#loginPassword', 'jan1234')
         .click('#app > div > form > button')
-        .expect(getLocation()).contains('http://localhost:9888/admin/')
+        .expect(getLocation()).eql('http://localhost:9888/admin/')
         .takeScreenshot()
 })
