@@ -23,7 +23,7 @@ pipeline {
         }
         stage("Execute UI tests") {
             steps {
-                sh "testcafe chrome:headless tests/AdminRegistrationAndLogin.js"
+                sh "testcafe chrome:headless tests/AdminRegistrationAndLogin.js -s path=screenshots/${TIMESTAMP}"
             }
             post {
                 always {
