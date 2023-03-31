@@ -2,7 +2,7 @@ pipeline {
     agent any
     environment {
         TIMESTAMP = sh(script: "date +%Y-%m-%d_%H-%M", returnStdout: true).trim()
-        SCREENSHOT_PATH = "screenshots/${TIMESTAMP}"
+        SCREENSHOT_PATH = "screenshots/"
     }
     stages {
         stage("Build UI") {
@@ -23,7 +23,7 @@ pipeline {
         }
         stage("Execute UI tests") {
             steps {
-                sh "testcafe chrome:headless tests/AdminRegistrationAndLogin.js -s path=screenshots/${TIMESTAMP}"
+                sh "testcafe chrome:headless tests/AdminRegistrationAndLogin.js -s path=screenshots/"
             }
             post {
                 always {
