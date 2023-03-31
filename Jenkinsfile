@@ -16,14 +16,13 @@ pipeline {
             steps {
                 sh "docker compose down"
                 sh "docker compose up -d --build"
-                sh "rm -r screenshots"
                 sh "mkdir -p ${SCREENSHOT_PATH}"
                 sh "chmod a=rwx ${SCREENSHOT_PATH}"
             }
         }
         stage("Execute UI tests") {
             steps {
-                sh "testcafe chrome:headless tests/AdminRegistrationAndLogin.js -s path=screenshots/"
+                sh "testcafe chrome:headless tests/AdminRegistrationAndLogin.js -s path=${SCREENSHOT_PATH}"
             }
             post {
                 always {
