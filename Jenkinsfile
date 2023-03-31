@@ -14,8 +14,8 @@ pipeline {
         }
         stage("Reset test environment") {
             steps {
-                sh "docker-compose down"
-                sh "docker-compose up -d --build"
+                sh "docker compose down"
+                sh "docker compose up -d --build"
                 sh "mkdir -p ${SCREENSHOT_PATH}"
                 sh "chmod a=rwx ${SCREENSHOT_PATH}"
             }
