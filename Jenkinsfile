@@ -1,5 +1,9 @@
 pipeline {
     agent any
+    environment {
+        TIMESTAMP = sh(script: "date +%s", returnStdout: true).trim()
+        SCREENSHOT_PATH = "screenshots/${TIMESTAMP}"
+    }
     stages {
         stage("Build UI") {
             steps {
@@ -13,13 +17,18 @@ pipeline {
                 sh "docker compose down"
                 sh "docker compose up -d --build"
                 sh "rm -r screenshots"
-                sh "mkdir screenshots"
-                sh "chmod a=rwx screenshots"
+                sh "mkdir -p ${SCREENSHOT_PATH}"
+                sh "chmod a=rwx ${SCREENSHOT_PATH}"
             }
         }
         stage("Execute UI tests") {
             steps {
                 sh "testcafe chrome:headless tests/AdminRegistrationAndLogin.js"
+            }
+            post {
+                always {
+                    archiveArtifacts artifacts: "${SCREENSHOT_PATH}/**", allowEmptyArchive: true
+                }
             }
         }
     }
