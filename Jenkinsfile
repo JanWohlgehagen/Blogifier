@@ -1,8 +1,8 @@
 pipeline {
     agent any
     environment {
-        TIMESTAMP = sh(script: "date +%s", returnStdout: true).trim()
-        SCREENSHOT_PATH = "screenshots/2023-03-31_08-56-31"
+        TIMESTAMP = sh(script: "date +%d", returnStdout: true).trim()
+        SCREENSHOT_PATH = "screenshots/${TIMESTAMP}"
     }
     stages {
         stage("Build UI") {
@@ -16,9 +16,9 @@ pipeline {
             steps {
                 sh "docker compose down"
                 sh "docker compose up -d --build"
-                //sh "rm -r screenshots"
-                //sh "mkdir -p ${SCREENSHOT_PATH}"
-                //sh "chmod a=rwx ${SCREENSHOT_PATH}"
+                sh "rm -r screenshots"
+                sh "mkdir -p ${SCREENSHOT_PATH}"
+                sh "chmod a=rwx ${SCREENSHOT_PATH}"
             }
         }
         stage("Execute UI tests") {
