@@ -1,7 +1,6 @@
 pipeline {
     agent any
     environment {
-        TIMESTAMP = sh(script: "date +%Y-%m-%d_%H-%M", returnStdout: true).trim()
         SCREENSHOT_PATH = "screenshots/"
     }
     stages {
