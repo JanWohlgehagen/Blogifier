@@ -26,7 +26,7 @@ pipeline {
             }
             post {
                 always {
-                    archiveArtifacts artifacts: "${SCREENSHOT_PATH}/1.png", allowEmptyArchive: true
+                    archiveArtifacts artifacts: "${SCREENSHOT_PATH}/*.png", allowEmptyArchive: true
                 }
             }
         }
