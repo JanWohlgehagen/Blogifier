@@ -2,7 +2,7 @@ pipeline {
     agent any
     environment {
         TIMESTAMP = sh(script: "date +%s", returnStdout: true).trim()
-        SCREENSHOT_PATH = "screenshots/1"
+        SCREENSHOT_PATH = "screenshots/${TIMESTAMP}"
     }
     stages {
         stage("Build UI") {
@@ -26,7 +26,7 @@ pipeline {
             }
             post {
                 always {
-                    archiveArtifacts artifacts: "${SCREENSHOT_PATH}/**", allowEmptyArchive: true
+                    archiveArtifacts artifacts: "${SCREENSHOT_PATH}/1.png", allowEmptyArchive: true
                 }
             }
         }
