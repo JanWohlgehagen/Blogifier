@@ -25,11 +25,6 @@ pipeline {
             steps {
                 sh "testcafe chrome:headless tests/AdminRegistrationAndLogin.js"
             }
-            post {
-                always {
-                    archiveArtifacts artifacts: "${SCREENSHOT_PATH}/**", allowEmptyArchive: true
-                }
-            }
         }
     }
 }
