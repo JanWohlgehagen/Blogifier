@@ -22,7 +22,7 @@ pipeline {
         }
         stage("Execute UI tests") {
             steps {
-                sh "testcafe chrome:headless tests/AdminRegistrationAndLogin.js"
+                sh "testcafe usr/bin/firefox:headless tests/AdminRegistrationAndLogin.js"
             }
             post {
                 always {
