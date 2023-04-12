@@ -14,7 +14,7 @@ export const options = {
     },
 };
 
-export default  () => {
-    let response = http.get("http://localhost:9888/api/post/list/All/Post")
+export default () => {
+    let response = http.get("http://localhost:9888/api/post/list/All/Post");
     sleep(1);
-}
+};
