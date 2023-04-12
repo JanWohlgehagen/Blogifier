@@ -1,8 +1,5 @@
 pipeline {
     agent any
-    environment {
-        SCREENSHOT_PATH = "screenshots/"
-    }
     stages {
         stage("Build UI") {
             steps {
@@ -15,8 +12,6 @@ pipeline {
             steps {
                 sh "docker compose down"
                 sh "docker compose up -d --build"
-                sh "mkdir -p ${SCREENSHOT_PATH}"
-                sh "chmod a=rwx ${SCREENSHOT_PATH}"
             }
         }
         stage("Execute Stress test") {
