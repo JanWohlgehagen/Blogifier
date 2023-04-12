@@ -1,12 +1,5 @@
 pipeline {
     agent any
-    parameters {
-        booleanParam(name: 'MIDNIGHT_BUILD', defaultValue: 'true', description: 'Midnight build')
-    }
-    triggers {
-            parameterizedCron('''
-               35 14 * * * %MIDNIGHT_BUILD=true
-            ''')
     environment {
         SCREENSHOT_PATH = "screenshots/"
     }
@@ -26,7 +19,6 @@ pipeline {
                 sh "chmod a=rwx ${SCREENSHOT_PATH}"
             }
         }
-        /**
         stage("Execute UI tests") {
             steps {
                 sh "testcafe chrome:headless tests/AdminRegistrationAndLogin.js -s path=${SCREENSHOT_PATH}"
@@ -42,16 +34,10 @@ pipeline {
                 sh "k6 run /var/lib/jenkins/workspace/Blogifier/tests/BlogifierLoadTest.js"
             }
         }
-
         stage("Execute Stress test") {
-            when {
-                expression { env.MIDNIGHT_BUILD }
-            }
             steps {
-                sh "echo stress test started... $env.MIDNIGHT_BUILD"
                 sh "k6 run /var/lib/jenkins/workspace/Blogifier/tests/BlogifierLoadTest.js"
             }
         }
-        */
     }
 }
