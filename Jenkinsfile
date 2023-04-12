@@ -1,5 +1,12 @@
 pipeline {
     agent any
+    parameters {
+        booleanParam(name: 'MIDNIGHT_BUILD', defaultValue: 'true', description: 'Midnight build')
+    }
+    triggers {
+            parameterizedCron('''
+               35 14 * * * %MIDNIGHT_BUILD=true
+            ''')
     environment {
         SCREENSHOT_PATH = "screenshots/"
     }
@@ -7,7 +14,6 @@ pipeline {
         stage("Build UI") {
             steps {
                 dir("src/Blogifier") {
-                    //sh "echo $env.MIDNIGHT_BUILD"
                     sh "dotnet publish Blogifier.csproj -o ../../outputs"
                 }
             }
