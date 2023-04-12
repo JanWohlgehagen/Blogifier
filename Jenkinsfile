@@ -29,5 +29,10 @@ pipeline {
                 }
             }
         }
+        stage("Execute Load test") {
+            steps {
+                sh "k6 run tests/BlogifierLoadTest.js"
+            }
+        }
     }
 }
