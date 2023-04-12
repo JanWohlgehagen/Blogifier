@@ -16,7 +16,7 @@ pipeline {
         }
         stage("Execute Stress test") {
             steps {
-                sh "k6 run /var/lib/jenkins/workspace/Blogifier/tests/BlogifierLoadTest.js"
+                sh "k6 run /var/lib/jenkins/workspace/Blogifier/tests/BlogifierStressTest.js"
             }
         }
         stage("Take down containers") {
