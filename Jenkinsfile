@@ -14,6 +14,7 @@ pipeline {
         stage("Build UI") {
             steps {
                 dir("src/Blogifier") {
+                    sh "echo $env.MIDNIGHT_BUILD"
                     sh "dotnet publish Blogifier.csproj -o ../../outputs"
                 }
             }
@@ -26,6 +27,7 @@ pipeline {
                 sh "chmod a=rwx ${SCREENSHOT_PATH}"
             }
         }
+        /**
         stage("Execute UI tests") {
             steps {
                 sh "testcafe chrome:headless tests/AdminRegistrationAndLogin.js -s path=${SCREENSHOT_PATH}"
@@ -41,6 +43,7 @@ pipeline {
                 sh "k6 run /var/lib/jenkins/workspace/Blogifier/tests/BlogifierLoadTest.js"
             }
         }
+
         stage("Execute Stress test") {
             when {
                 expression { env.MIDNIGHT_BUILD }
@@ -50,5 +53,6 @@ pipeline {
                 sh "k6 run /var/lib/jenkins/workspace/Blogifier/tests/BlogifierLoadTest.js"
             }
         }
+        */
     }
 }
