@@ -31,9 +31,13 @@ pipeline {
         }
         stage("Execute Load test") {
             steps {
-                sh "echo '$PWD'"
                 sh "k6 run /var/lib/jenkins/workspace/Blogifier/tests/BlogifierLoadTest.js"
             }
         }
+        stage("Execute Stress test") {
+                steps {
+                    sh "k6 run /var/lib/jenkins/workspace/Blogifier/tests/BlogifierLoadTest.js"
+                }
+            }
     }
 }
