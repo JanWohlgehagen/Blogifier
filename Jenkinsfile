@@ -34,9 +34,9 @@ pipeline {
                 sh "k6 run /var/lib/jenkins/workspace/Blogifier/tests/BlogifierLoadTest.js"
             }
         }
-        stage("Execute Stress test") {
+        stage("Take down containers") {
             steps {
-                sh "k6 run /var/lib/jenkins/workspace/Blogifier/tests/BlogifierLoadTest.js"
+                sh "docker compose down"
             }
         }
     }
