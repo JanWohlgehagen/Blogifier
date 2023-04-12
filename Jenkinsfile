@@ -32,7 +32,7 @@ pipeline {
         stage("Execute Load test") {
             steps {
                 sh "echo '$PWD'"
-                sh "k6 run tests/BlogifierLoadTest.js"
+                sh "k6 run workspace/Blogifier/tests/BlogifierLoadTest.js"
             }
         }
     }
